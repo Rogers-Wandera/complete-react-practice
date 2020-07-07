@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+ 
+}
+
+body{
+ background-image: url(./Image/005.jpg); 
+ background-repeat: no-repeat;
+}
+.home{
+  background-color: rgb(48, 104, 177);
+}
+
+.edit{
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 13px;
+  background-color:rgb(208, 233, 208);
+
+}
+.list{
+   margin: 10px 20px 10px 20px; 
+}
+.logo{
+  background-image: url(./Image/loogo.jpg);
+  width: 100px;
+  height: 50px;
+  margin-top: 0px; 
+  margin-left: 0px;
+  margin-bottom: 0px;
+  text-align: left;
+}
+.slider{
+  background-image:url(./Image/010.jpg) ;
+  width: 900px;
+  height: 520px;
+}
+.button{
+  padding: 10px;
+  background-color: green;
+  color: white;
+}
+.txt{
+  margin: 100px;
+  padding: 10px;
+}
+.form1{
+  background-color:white;
+  margin-left: 490px;
+  margin-right: 450px;
+  height: 520px;
+  border-style: solid;
+  border-radius: 20px;
+} 
+.label{
+  color: blue;
+  font-size: 20px;
+  font-weight: 10px;
+}
+label:hover{
+  color: chartreuse;
+}
+.tasks{
+  color: darkgreen;
+}
+.footer{
+  margin: 100px;
+  color: blue;
+}
